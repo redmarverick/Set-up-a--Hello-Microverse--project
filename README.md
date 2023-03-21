@@ -39,7 +39,7 @@ Just a simple html and css made for testing github functionalities.
 
 👤 **Author1**
 
-- GitHub: [@Zuhaib042](https://github.com/redmarverick)
+- GitHub: [@redmarverick](https://github.com/redmarverick)
 
 ## 🤝 Contributing
 
